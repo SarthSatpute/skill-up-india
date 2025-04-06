@@ -1,9 +1,11 @@
 # 🌟 Skill-up-india — Personalized Skill Journeys for Every Indian Dream 🇮🇳
 
 > **Frontend Prototype Deployed · Full Integration in Progress**  
-> 🚧 This is the deployed frontend prototype of YouthSkill.AI. Backend development, AI integrations, and full-stack features are currently under progress.
+> 🚧 This is the deployed frontend prototype of Skill-up-india. Backend development, AI integrations, and full-stack features are currently under progress.
 
+🔗 **Live Demo**: [https://skill-up-india99.vercel.app/](https://skill-up-india99.vercel.app/)
 
+---
 
 ## 🧠 About the Project
 
@@ -42,3 +44,29 @@ git clone https://github.com/SarthSatpute/skill-up-india.git
 cd skill-up-india
 npm install
 npm run dev
+```
+
+---
+
+## 👥 Team
+
+Made by student innovators passionate about making tech inclusive.  
+We’ve previously been **SIH Finalists** and participants in multiple national-level hackathons.
+
+---
+
+## 📬 Feedback & Ideas?
+
+We’re actively building and would love your suggestions!  
+📧 Email us at: **bytebender18@gmail.com**
+
+---
+
+## 🌱 What’s Coming Next
+
+- 🤖 AI-based personalized learning engine
+- 🧑‍🏫 Mentor matchmaking and community Q&A spaces
+- 📶 Offline-first mode with PWA support
+- 📲 SMS-based micro-learning and assessments
+- 📊 Real-time skill analytics and gamified progress
+
