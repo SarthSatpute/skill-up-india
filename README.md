@@ -48,12 +48,7 @@ npm run dev
 
 ---
 
-## 👥 Team
 
-Made by student innovators passionate about making tech inclusive.  
-We’ve previously been **SIH Finalists** and participants in multiple national-level hackathons.
-
----
 
 ## 📬 Feedback & Ideas?
 
